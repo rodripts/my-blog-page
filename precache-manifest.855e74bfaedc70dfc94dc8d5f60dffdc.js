@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4d5102fb42cf875b84d5",
+    "revision": "918727a37d6360851c36",
     "url": "/my-blog-react/static/css/main.edcf77ef.chunk.css"
   },
   {
-    "revision": "4d5102fb42cf875b84d5",
-    "url": "/my-blog-react/static/js/main.76fa3498.chunk.js"
+    "revision": "918727a37d6360851c36",
+    "url": "/my-blog-react/static/js/main.af008985.chunk.js"
   },
   {
     "revision": "41585349487ec537a91d",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/my-blog-react/static/media/atomic-design2.d334e3a3.jpg"
   },
   {
-    "revision": "ab6c09ac9502716fa1b4cea34dc94651",
+    "revision": "d0e02ef8ac4d20548f176a44656fb651",
     "url": "/my-blog-react/index.html"
   }
 ];
